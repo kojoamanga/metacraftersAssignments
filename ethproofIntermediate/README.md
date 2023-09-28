@@ -26,4 +26,4 @@ kojoamanga
 
 ## License
 
-This contractuses MiT license
+This contract uses MIT license
